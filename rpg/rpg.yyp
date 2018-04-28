@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "019b24db-627f-43bc-a851-ecdcc5c14a77",
+            "Value": {
+                "id": "81dda9af-dfd9-4e9b-bebf-4306123b0390",
+                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "085c216c-ff01-4024-a494-0c5c9750e112",
             "Value": {
                 "id": "b7d450f1-b46e-4b52-b3e4-53c186ab4f47",
@@ -82,7 +90,7 @@
             "Key": "55c8e429-8ff9-4ec0-a3bc-5a0d25433f58",
             "Value": {
                 "id": "9e0a64b4-b582-458d-9bfb-c7aaa48554ae",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_grass_parent\\rm_grass_parent.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "d5f46c17-88c1-456f-ae16-4173f4e85f5a",
+            "Value": {
+                "id": "a5e7873d-ee8d-4fb9-8c12-b77c92f99c1a",
+                "resourcePath": "scripts\\move_state\\move_state.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "dad50e7a-1393-4fd7-b77a-3162db321106",
             "Value": {
                 "id": "6f1709a8-353c-439d-89f9-471c628c3bc2",
@@ -208,7 +224,8 @@
         }
     ],
     "script_order": [
-        "7dcffe63-e5a9-46e3-9c81-d296152eb8c0"
+        "7dcffe63-e5a9-46e3-9c81-d296152eb8c0",
+        "d5f46c17-88c1-456f-ae16-4173f4e85f5a"
     ],
     "tutorial": ""
 }
